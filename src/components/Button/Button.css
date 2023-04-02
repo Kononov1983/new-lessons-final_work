@@ -1,0 +1,18 @@
+.CommonButton {
+    width: calc(153 / 2580 * 100vw);
+    height: calc(45 / 2580 * 100vw);
+    outline: none;
+    border: none;
+    background: #FFC85E;
+    border-radius: calc(80 / 2580 * 100vw);
+    padding: calc(10 / 2580 * 100vw);
+    color: white;
+    transition: .2s background-color;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    font-size: calc(10 / 2580 * 100vw);
+}

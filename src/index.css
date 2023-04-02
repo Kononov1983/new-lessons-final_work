@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.common-header {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: calc(16 / 2580 * 100vw);
+  color: #111111;
+}
+
+.common-price::after {
+  content: '';
+}

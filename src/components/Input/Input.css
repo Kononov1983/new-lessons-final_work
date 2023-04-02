@@ -1,0 +1,15 @@
+.CommonInput {
+    width: calc(228 / 2580 * 100vw);
+    height: calc(59 / 2580 * 100vw);
+    border: calc(1 / 2580 * 100vw) solid black;
+    outline: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: calc(13 / 2580 * 100vw);
+    gap: calc(10 / 2580 * 100vw);
+    background: #FFFFFF;
+    border-radius: calc(36 / 2580 * 100vw);
+    font-size: calc(25 / 2580 * 100vw);
+}

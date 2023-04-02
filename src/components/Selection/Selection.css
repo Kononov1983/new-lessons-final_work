@@ -1,0 +1,25 @@
+.Selection {
+    width: calc(193 / 2580 * 100vw);
+    height: calc(84 / 2580 * 100vw);
+    left: 0;
+    top: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: calc(16 / 2580 * 100vw);
+    line-height: 150%;
+    color: #3F4E65;
+}
+
+.PNi {
+    width: calc(193 / 2580 * 100vw);
+    height: calc(44 / 2580 * 100vw);
+    left: 0;
+    top: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: calc(24 / 2580 * 100vw);
+    line-height: 150%;
+    color: #3F4E65;
+}

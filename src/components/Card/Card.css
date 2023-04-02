@@ -1,0 +1,68 @@
+.Card {
+    width: calc(326 / 2580 * 100vw);
+    height: calc(490 / 2580 * 100vw);
+    background: #FFFFFF;
+    border-radius: calc(10 / 2580 * 100vw);
+    box-shadow: 0px 15px 70px -11px rgba(43, 28, 1, 0.04);
+}
+  
+.Card-container {
+    position: relative;
+    padding: calc(10 / 2580 * 100vw);
+    width: calc(326 / 2580 * 100vw);
+    height: calc(180 / 2580 * 100vw);
+}
+  
+.Card-img {
+    width: calc(92 / 2580 * 100vw);
+    height: calc(194 / 2580 * 100vw);
+    object-fit: cover;
+    padding: calc(11 / 2580 * 100vw);
+    padding-left: calc(117 / 2580 * 100vw);
+    padding-right: calc(117 / 2580 * 100vw);
+}
+
+.Card-barcode {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: calc(14 / 2580 * 100vw);
+}
+
+.Card-producer {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: calc(14 / 2580 * 100vw);
+}
+
+.Card-price {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: calc(16 / 2580 * 100vw);
+    padding-top: calc(14 / 2580 * 100vw);
+    bottom: 0;
+}
+
+.Card-description {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: calc(12 / 2580 * 100vw);
+}
+
+.Card-brand {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: calc(14 / 2580 * 100vw);
+}
+
+.Place-button {
+    position: absolute;
+    padding-left: calc(124 / 2580 * 100vw);
+    bottom: 0;
+  }
+
