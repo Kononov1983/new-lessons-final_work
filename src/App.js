@@ -10,7 +10,7 @@ import Selection from './components/Selection/Selection.js';
 function App() {
   const arr = [
     {
-      img: 'https://avatars.mds.yandex.net/get-direct/5439082/xlYkNdVuYaNVdra-u5vr6Q/y300',      
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-21.jpg?raw=true',      
       description: '450 мл',
       title: 'AOS средство для мытья посуды Crystal',
       price: '48,76T',
@@ -37,7 +37,7 @@ function App() {
       brand: 'Брэнд: AOS'
     },
     {
-      img: '',      
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-21.jpg?raw=true',      
       description: '450 мл',
       title: 'AOS средство для мытья посуды Crystal',
       price: '48,76T',
@@ -64,7 +64,7 @@ function App() {
       brand: 'Брэнд: AOS'
     },
     {
-      img: '',      
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-21.jpg?raw=true',      
       description: '450 мл',
       title: 'AOS средство для мытья посуды Crystal',
       price: '48,76T',
@@ -91,7 +91,7 @@ function App() {
       brand: 'Брэнд: AOS'
     },
     {
-      img: '',      
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-21.jpg?raw=true',      
       description: '450 мл',
       title: 'AOS средство для мытья посуды Crystal',
       price: '48,76T',
@@ -118,7 +118,7 @@ function App() {
       brand: 'Брэнд: AOS'
     },
     {
-      img: '',      
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-21.jpg?raw=true',      
       description: '450 мл',
       title: 'AOS средство для мытья посуды Crystal',
       price: '48,76T',
