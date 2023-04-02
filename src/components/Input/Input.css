@@ -1,6 +1,6 @@
 .CommonInput {
     width: calc(228 / 2580 * 100vw);
-    height: calc(59 / 2580 * 100vw);
+    height: calc(49 / 2580 * 100vw);
     border: calc(1 / 2580 * 100vw) solid black;
     outline: none;
     display: flex;

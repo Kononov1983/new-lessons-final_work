@@ -147,7 +147,7 @@ function App() {
     
   ]
 
-  const res = JSON.stringify(arr, ['title','description','barcode','producer','brand','price']);
+  const res = JSON.stringify(arr, ['img','title','description','barcode','producer','brand','price']);
 
   console.log(res);
 
@@ -184,6 +184,9 @@ function App() {
         </div>
         <div className="Group-102">
           <img className="Group-102-1" src={ "https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/Group%20102.png?raw=true"} />
+        </div>
+        <div className="Price-button">
+          <Button>Прайс-лист</Button>
         </div>
       </div>
       <div className="Frame-111-1">Главная:  Косметика и гигиена</div>
@@ -267,10 +270,10 @@ function App() {
           <div className="book_a_call">Заказать звонок</div>
           <div className="email-124">opt.sultan@mail.ru На связи в любое время</div>
           <div className="VISA1">
-        
+            <img className="VISA1-1" src={ "https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/Visa.png?raw=true" }/>
           </div>
           <div className="VISA2">
-        
+            <img className="VISA2-1" src={ "https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/Visa%20(1).png?raw=true" }/>
           </div>
         </div>
         <div className="Group-125">
@@ -280,10 +283,10 @@ function App() {
           </div>
           <div className="Connect">Связь в мессенджерах:</div>
           <div className="Group-162">
-
+            <img className="Group-162-1" src={ "https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/Group%20162.png?raw=true" }/>
           </div>
           <div className="Telegram">
-
+            <img className="Telegram-1" src={ "https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/logos_telegram.png?raw=true" } />
           </div>
         </div>
           <div className="Group-122">
@@ -302,7 +305,7 @@ function App() {
           <div className="Contacts-121">Контакты</div>
         </div>
         <div className="logo_SULTAN">
-          <img className="logo_SULTAN-1" src={ "" }/>
+          <img className="logo_SULTAN-1" src={ "https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/3.1%20Лого%20Султан%20RGB.png?raw=true" }/>
         </div>        
         <div className="text_logo">Компания «Султан» — снабжаем розничные магазины товарами "под ключ" в Кокчетаве и Акмолинской области</div>
         <div className="logo_Description">Подпишись на скидки и акции</div>

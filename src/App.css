@@ -154,6 +154,12 @@
   left: 0;
 }
 
+.Price-button {
+  position: absolute;
+  top: calc(86 / 2580 * 100vw);
+  left: calc(1262 / 2580 * 100vw);
+}
+
 .Frame-111-1 {
   position: absolute;
   width: calc(219 / 2580 * 100vw);
@@ -1087,12 +1093,28 @@ top: calc(71 / 2580 * 100vw);
   top: calc(203 / 2580 * 100vw);
 }
 
+.VISA1-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
 .VISA2 {
   position: absolute;
   width: calc(61 / 2580 * 100vw);
   height: calc(39 / 2580 * 100vw);
   left: calc(71 / 2580 * 100vw);
   top: calc(203 / 2580 * 100vw);
+}
+
+.VISA2-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
 }
 
 .Group-125 {
@@ -1154,12 +1176,28 @@ top: calc(71 / 2580 * 100vw);
   top: calc(170 / 2580 * 100vw);
 }
 
+.Group-162-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
 .Telegram {
   position: absolute;
   width: calc(39 / 2580 * 100vw);
   height: calc(39 / 2580 * 100vw);
   left: calc(49 / 2580 * 100vw);
   top: calc(170 / 2580 * 100vw);
+}
+
+.Telegram-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
 }
 
 .Group-122 {
@@ -1346,6 +1384,7 @@ top: calc(71 / 2580 * 100vw);
   height: 100%;
   top: 0;
   left: 0;
+  background: white;
 }
 
 .text_logo {
