@@ -21,7 +21,7 @@ function App() {
     {
       title: 'ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник',
       description: '15X28.8 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-31.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -30,7 +30,7 @@ function App() {
     {
       title: 'BIMAX Порошок стиральный Автомат 100 пятен COMPACT',
       description: '1500 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-41.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -48,7 +48,7 @@ function App() {
     {
       title: 'ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник',
       description: '15X28.8 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-31.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -57,7 +57,7 @@ function App() {
     {
       title: 'BIMAX Порошок стиральный Автомат 100 пятен COMPACT',
       description: '1500 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-41.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -75,7 +75,7 @@ function App() {
     {
       title: 'ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник',
       description: '15X28.8 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-31.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -84,7 +84,7 @@ function App() {
     {
       title: 'BIMAX Порошок стиральный Автомат 100 пятен COMPACT',
       description: '1500 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-41.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -102,7 +102,7 @@ function App() {
     {
       title: 'ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник',
       description: '15X28.8 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-31.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -111,7 +111,7 @@ function App() {
     {
       title: 'BIMAX Порошок стиральный Автомат 100 пятен COMPACT',
       description: '1500 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-41.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -129,7 +129,7 @@ function App() {
     {
       title: 'ARIEL Автмат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник',
       description: '15X28.8 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-31.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -138,7 +138,7 @@ function App() {
     {
       title: 'BIMAX Порошок стиральный Автомат 100 пятен COMPACT',
       description: '1500 г',
-      img: '',
+      img: 'https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/image-41.jpg?raw=true',
       price: '48,76T',
       barcode: 'Штрихкод: 4604049097548',
       producer: 'Производитель: Нэфис',
@@ -174,13 +174,16 @@ function App() {
         <div className='Return'>Возврат</div>
         <div className='Contacts'>Контакты</div>
         <div className="SULTAN">
-        
+          <img className="SULTAN1" src={ "https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/3.1%20Лого%20Султан%20RGB.png?raw=true" }/>
         </div>
         <div className="Main-button">
           <Button>КАТАЛОГ</Button>
         </div>
         <div className="Search">
           <Input type="Search1" placeholder="Поиск..." name="Search1" id="Search1" />
+        </div>
+        <div className="Group-102">
+          <img className="Group-102-1" src={ "https://github.com/Kononov1983/new-lessons-final_work/blob/main/src/components/img/Group%20102.png?raw=true"} />
         </div>
       </div>
       <div className="Frame-111-1">Главная:  Косметика и гигиена</div>
@@ -299,7 +302,7 @@ function App() {
           <div className="Contacts-121">Контакты</div>
         </div>
         <div className="logo_SULTAN">
-        
+          <img className="logo_SULTAN-1" src={ "" }/>
         </div>        
         <div className="text_logo">Компания «Султан» — снабжаем розничные магазины товарами "под ключ" в Кокчетаве и Акмолинской области</div>
         <div className="logo_Description">Подпишись на скидки и акции</div>

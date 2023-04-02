@@ -118,6 +118,14 @@
   left: calc(277 / 2580 * 100vw);
 }
 
+.SULTAN1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
 .Main-button {
   position: absolute;
   top: calc(86 / 2580 * 100vw);
@@ -128,6 +136,22 @@
   position: absolute;
   top: calc(86 / 2580 * 100vw);
   left: calc(678 / 2580 * 100vw);
+}
+
+.Group-102 {
+  position: absolute;
+  width: calc(236 / 2580 * 100vw);
+  height: calc(92 / 2580 * 100vw);
+  top: calc(65 / 2580 * 100vw);
+  left: calc(976 / 2580 * 100vw);
+}
+
+.Group-102-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
 }
 
 .Frame-111-1 {
@@ -1314,6 +1338,14 @@ top: calc(71 / 2580 * 100vw);
   height: calc(66 / 2580 * 100vw);
   left: calc(277 / 2580 * 100vw);
   top: calc(71 / 2580 * 100vw);
+}
+
+.logo_SULTAN-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
 }
 
 .text_logo {
