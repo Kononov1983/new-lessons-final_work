@@ -1,7 +1,7 @@
 {
-  "name": "new-lessons-final_work",
+  "name": "fr",
   "homepage": "https://Kononov1983.github.io/new-lessons-final_work",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -42,5 +42,19 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kononov1983/new-lessons-final_work.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "апе",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Kononov1983/new-lessons-final_work/issues"
   }
 }
